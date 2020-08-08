@@ -1,5 +1,13 @@
 @import "./reset.css";
 
 body {
-  background-color: aqua;
+  overflow: hidden;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: row;
 }
