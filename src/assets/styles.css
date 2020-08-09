@@ -31,7 +31,21 @@ body {
   height: 65vh;
 
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+}
+
+.main .main__col1 {
+  width: 720px;
+  height: 100%;
+
+  background-color: chocolate;
+}
+
+.main .main__col2 {
+  width: 720px;
+  height: 100%;
+
+  background-color: coral;
 }
 
 .bottom {
