@@ -55,3 +55,17 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.bottom .bottom__col1 {
+  width: 720px;
+  height: 100%;
+
+  background-color: cornflowerblue;
+}
+
+.bottom .bottom__col2 {
+  width: 720px;
+  height: 100%;
+
+  background-color: beige;
+}
